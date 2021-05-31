@@ -14,4 +14,4 @@ Now that the GCFs are specified and allocated to the approrpiate groups of links
 
 The provided codes are expected to work with no or limited modification with the Melbourne meso model in AIMSUN. However, if you want to use this code for your own model, you need to adjust a few things including the start and end of simulation, simulation time-intervals, etc.
 
-For questions, please contact Ziyuan Gu (ziyuan.gu@unsw.edu.au).
+For questions, please contact Ziyuan Gu (ziyuangu@seu.edu.cn).
